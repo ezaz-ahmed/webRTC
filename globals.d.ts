@@ -1,3 +1,0 @@
-interface Window {
-  phantom: any;
-}
